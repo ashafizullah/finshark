@@ -146,3 +146,4 @@
 /Users/adamsuchihafizullah/Projects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /Users/adamsuchihafizullah/Projects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/adamsuchihafizullah/Projects/FinShark/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/adamsuchihafizullah/Projects/FinShark/api/obj/Debug/net8.0/api.sourcelink.json
